@@ -1,0 +1,19 @@
+{
+  "name": "kira-social-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "~50.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.0",
+    "axios": "^1.5.0",
+    "@react-navigation/native": "^6.2.0",
+    "@react-navigation/bottom-tabs": "^6.0.9"
+  }
+}
